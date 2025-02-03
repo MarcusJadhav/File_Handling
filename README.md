@@ -11,3 +11,4 @@ This is a simple Java program that allows users to perform basic file operations
 - **Exit** – Exits the program.  
 
 
+<img src="./Output.png">
